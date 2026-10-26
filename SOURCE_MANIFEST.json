@@ -1,0 +1,1562 @@
+[
+  {
+    "file": ".gitignore",
+    "sha256": "cc021e29b576158b7115cab1e6371ff40862fd65a6e9cc103e8961b592ad7e2f",
+    "bytes": 70
+  },
+  {
+    "file": "README.md",
+    "sha256": "c4a3dee1fbd066112df19f0777447f1e172155c711de2f028fc87df2ea4ef146",
+    "bytes": 2384
+  },
+  {
+    "file": "SECURITY.md",
+    "sha256": "6e933c8185b9cb87227f3465bb50d7528aad77eda07e72cb9f93cca5e8656a05",
+    "bytes": 758
+  },
+  {
+    "file": "projects/humanoid-control/LICENSE",
+    "sha256": "46bbb2647c359df3ce2abc0a0bc4e39235f5c0b3fa02244d7dca7fd76d3e924a",
+    "bytes": 1081
+  },
+  {
+    "file": "projects/humanoid-control/README.md",
+    "sha256": "602fb06f580ca6ce26231b0d496ecb78086328698b5fa43a8561aa9e411f0e90",
+    "bytes": 859
+  },
+  {
+    "file": "projects/humanoid-control/control/__init__.py",
+    "sha256": "fed888e473da0d0c4f60b3f065c8199940c1bec1b7a5e9ff97705c447161f7d7",
+    "bytes": 78
+  },
+  {
+    "file": "projects/humanoid-control/control/autopilot.py",
+    "sha256": "b9b112bc18d8fa747abdab991a368986329e9e1a8fe1bc8652202a510d8d2610",
+    "bytes": 20216
+  },
+  {
+    "file": "projects/humanoid-control/control/benchmark.py",
+    "sha256": "02302dc2d2b2880f56a37191c63b7cea576de66b9e3fec7331aa961a67f1467a",
+    "bytes": 10349
+  },
+  {
+    "file": "projects/humanoid-control/control/benchmarks.py",
+    "sha256": "a46534d8c474b7a0c45a748e6733b010d1f43aa4684f19b77254f5b1edfd2f1d",
+    "bytes": 1465
+  },
+  {
+    "file": "projects/humanoid-control/control/common.py",
+    "sha256": "42bf2cbedc69adf7c45ab44d1e7d68207a3789ebdbfb0d12696aa695e2168e3b",
+    "bytes": 5380
+  },
+  {
+    "file": "projects/humanoid-control/control/concurrency_benchmark.py",
+    "sha256": "58661e4d513d28400ddc3d1143b7b61ea7bc19a0e93444205590c36d003e1956",
+    "bytes": 6161
+  },
+  {
+    "file": "projects/humanoid-control/control/evaluate.py",
+    "sha256": "c7ce6bc6d738c8b8f792bd4915b5a30f03203443500d5eab66aec95db6c02974",
+    "bytes": 2389
+  },
+  {
+    "file": "projects/humanoid-control/control/index.html",
+    "sha256": "2907f4e95f66874226e93001538828c4174a076afce61ddf86d0664a7883df6a",
+    "bytes": 34965
+  },
+  {
+    "file": "projects/humanoid-control/control/launch.py",
+    "sha256": "334188a90d24adcdc246a7369610c42eb8b20d9123fddc6b0d9aaa71ee18f447",
+    "bytes": 1385
+  },
+  {
+    "file": "projects/humanoid-control/control/models.py",
+    "sha256": "728fc6e18318c2e8f27294c523bb7b458ef0ec54a144aa1038dc328368efe6d1",
+    "bytes": 2892
+  },
+  {
+    "file": "projects/humanoid-control/control/play.py",
+    "sha256": "dab7c3b55357dd7e675fbfecc68661c4db709becdd4af821838e0191e48b464d",
+    "bytes": 5811
+  },
+  {
+    "file": "projects/humanoid-control/control/probe.py",
+    "sha256": "767b81b9f366717e1610f275c2747dc8c0023d884e36a76c20a4395248864964",
+    "bytes": 4003
+  },
+  {
+    "file": "projects/humanoid-control/control/server.py",
+    "sha256": "389f28f1fcf538e675d0f1123d64799808415ca179ce189d878f83c72eaf2214",
+    "bytes": 15015
+  },
+  {
+    "file": "projects/humanoid-control/control/smoke.py",
+    "sha256": "54ddfc204c04b322a935a11663f1f429e8174223f1c803ba0534e502f0c7bc30",
+    "bytes": 5516
+  },
+  {
+    "file": "projects/humanoid-control/control/train.py",
+    "sha256": "b18edb8069bc5ea1fa3220562eed28c53b50c870aef20b154cab8cec092c7e15",
+    "bytes": 15773
+  },
+  {
+    "file": "projects/humanoid-control/control/verify_resume.py",
+    "sha256": "36cb0f358e961c13bc25d66562551980461515d2c821b6b0fbbfa5d23893853b",
+    "bytes": 1894
+  },
+  {
+    "file": "projects/kis-experience/README.md",
+    "sha256": "d721b2e18f60fc77e58c81abb9c6660af07e79a585c891a7d90769363ee98401",
+    "bytes": 490
+  },
+  {
+    "file": "projects/kis-experience/dist/cinema.css",
+    "sha256": "7a99aacb57b127b59163274a213a7cabb0bb80a8d552c4d3c0b4b8f38413c9d5",
+    "bytes": 9058
+  },
+  {
+    "file": "projects/kis-experience/dist/index.html",
+    "sha256": "dcedba07b4ebe3562a91e3af2fd87ffffc46b2f9e361372b57896c7085a36313",
+    "bytes": 17142
+  },
+  {
+    "file": "projects/kis-experience/dist/scripts/choreography.js",
+    "sha256": "9e61ed992c886fdf40d8c7e52af89aea5e5769f2383ac805ea9cfc1304f70b58",
+    "bytes": 6214
+  },
+  {
+    "file": "projects/kis-experience/dist/scripts/cinematic-world.js",
+    "sha256": "253b27c728d3cd402458dcdb92d2a0c2a0565b71015e640ebfb9a02c0fe0a557",
+    "bytes": 16393
+  },
+  {
+    "file": "projects/kis-experience/dist/scripts/content.js",
+    "sha256": "d06c446d014f7c410b696006f55826d8b688f0d4de8ec55558253a16ddd5ce77",
+    "bytes": 4866
+  },
+  {
+    "file": "projects/kis-experience/dist/scripts/main.js",
+    "sha256": "19bd9a1027a7acf0cd8a112d7533b60e271441e3e38fc4cfc3b4edc335787cec",
+    "bytes": 1354
+  },
+  {
+    "file": "projects/kis-experience/dist/scripts/math.js",
+    "sha256": "e63fe103197e441c404add1843066f74fc2704fd4684a2522af704a26c63552d",
+    "bytes": 378
+  },
+  {
+    "file": "projects/kis-experience/dist/scripts/scroll-engine.js",
+    "sha256": "b9c789212fbd1f5a513e811bd4f0c0212bf31b2b7995ec729834ce00a78a9b15",
+    "bytes": 5347
+  },
+  {
+    "file": "projects/kis-experience/dist/scripts/ui.js",
+    "sha256": "81fc4b2c7edbe88761e6be7768ca031fd62866bd18c0637edc0c3659f03cbd5c",
+    "bytes": 3596
+  },
+  {
+    "file": "projects/kis-experience/dist/scripts/world.js",
+    "sha256": "60fff595fab95c20290cbe14ceeef14df31d848f8d458838036a91f0aff8ea52",
+    "bytes": 11306
+  },
+  {
+    "file": "projects/kis-experience/dist/style.css",
+    "sha256": "8980d8846c28f3f1994c1d5d40a339141afb5bab1bf90aa699d6a03e1049f28e",
+    "bytes": 26978
+  },
+  {
+    "file": "projects/kis-experience/dist/vendor/THREE-LICENSE.txt",
+    "sha256": "bfe119ea4fd413f5f7ca3fcd63adb0c4a073ed39daa2fe7d3e6b769e21272601",
+    "bytes": 1081
+  },
+  {
+    "file": "projects/kis-experience/dist/vendor/helvetiker_regular.typeface.json",
+    "sha256": "d5c5467690f74061179a292af83bd85c4c551e0f106b2af99714f11184c96981",
+    "bytes": 63182
+  },
+  {
+    "file": "projects/kis-experience/package.json",
+    "sha256": "cc01cb7beab9adaa4d7ae3c0739086a2c96dfa294dae43d331595d9c4237d030",
+    "bytes": 210
+  },
+  {
+    "file": "projects/learner/Package.swift",
+    "sha256": "7f5ea047f74b9542a7f3d1f5da8e85dcac3b8f8651246fe92596ae123581ace7",
+    "bytes": 1208
+  },
+  {
+    "file": "projects/learner/README.md",
+    "sha256": "cf51c474a8187a063d400c7ecd3ea835b039f5660a660e41e6d6b0d8f8e8e6c6",
+    "bytes": 309
+  },
+  {
+    "file": "projects/learner/Sources/LearnerApp/Agent/AgentController.swift",
+    "sha256": "9c0cf9565db26806debea7d25ea1ba24e757d0f8dbb42f32814db9c08e8bdeee",
+    "bytes": 19971
+  },
+  {
+    "file": "projects/learner/Sources/LearnerApp/Agent/BehaviorModel.swift",
+    "sha256": "2d68d815652c417066b69770a9478e77eddc2755a2f96391998921cba7c71cc3",
+    "bytes": 12730
+  },
+  {
+    "file": "projects/learner/Sources/LearnerApp/Agent/CorrectionLearner.swift",
+    "sha256": "9f808782eef85a5177db306ea034da714e698ed0bf243f32b9d9523a2a381d09",
+    "bytes": 4614
+  },
+  {
+    "file": "projects/learner/Sources/LearnerApp/Agent/VisualGoalLearning.swift",
+    "sha256": "cb03d107c642381d21f9ba7f93939d91f56cd9d5069b2c3ada76fbdfa9a77add",
+    "bytes": 17759
+  },
+  {
+    "file": "projects/learner/Sources/LearnerApp/App/AppModel.swift",
+    "sha256": "52bc7de1187a6117b2a084d102f12358b81856044bdb58f028416b235acccd3e",
+    "bytes": 60272
+  },
+  {
+    "file": "projects/learner/Sources/LearnerApp/App/LearnerApp.swift",
+    "sha256": "a88ac96f8f780d6e11c4722bb9a5e1787a9602d4ea0c985b8c81a973bdec2c05",
+    "bytes": 5258
+  },
+  {
+    "file": "projects/learner/Sources/LearnerApp/App/PermissionCenter.swift",
+    "sha256": "0e0f893b4c21c60777cef947299301044743ad56f935e5056017456e77033935",
+    "bytes": 1443
+  },
+  {
+    "file": "projects/learner/Sources/LearnerApp/Capture/CaptureEngine.swift",
+    "sha256": "02906301135526067dcd66c5a215c71d38521116ba71312c6dc58f871ca9c144",
+    "bytes": 6174
+  },
+  {
+    "file": "projects/learner/Sources/LearnerApp/Capture/CaptureSourceProvider.swift",
+    "sha256": "a310c6f153ad2ad0ebf0b243a6c1ef51ce1a298b30aba096e6aae1b829eb1791",
+    "bytes": 7650
+  },
+  {
+    "file": "projects/learner/Sources/LearnerApp/Capture/FrameProcessor.swift",
+    "sha256": "58fad0ba0675a021a8d2809c335861b9b44e077b3de38b12740c66b49e0f631b",
+    "bytes": 6049
+  },
+  {
+    "file": "projects/learner/Sources/LearnerApp/Input/InputController.swift",
+    "sha256": "71bbc798ef54104da461cead7a6c0d666b151d5c5c83123a41f2c2b31a35c483",
+    "bytes": 3800
+  },
+  {
+    "file": "projects/learner/Sources/LearnerApp/Input/InputRecorder.swift",
+    "sha256": "29e36e07efba1657e62a54e8f5198f1b4cfb73ee2ef87a82de6ec942c4ade727",
+    "bytes": 13439
+  },
+  {
+    "file": "projects/learner/Sources/LearnerApp/Recording/AgentExperienceStore.swift",
+    "sha256": "a713b6ddd82d102fc8796f77ef6eed47c16b9c40a8c50cca4688efa1cc833240",
+    "bytes": 1144
+  },
+  {
+    "file": "projects/learner/Sources/LearnerApp/Recording/SessionRecorder.swift",
+    "sha256": "a7c829e85ccb8f21fc3fa6f579d106736afd948d4e77a12563448d12e2f54be0",
+    "bytes": 10770
+  },
+  {
+    "file": "projects/learner/Sources/LearnerApp/Recording/SessionStore.swift",
+    "sha256": "8c32366aa81d7a73c82bf9113afa5322f29d07f5598e9d9172d154bade82bce0",
+    "bytes": 15987
+  },
+  {
+    "file": "projects/learner/Sources/LearnerApp/Recording/VideoWriter.swift",
+    "sha256": "3d5442c7323f8532f35a8af65845a2e10f4798fda7e2cb07e5c4b020afd7ad1b",
+    "bytes": 6812
+  },
+  {
+    "file": "projects/learner/Sources/LearnerApp/UI/ActivityView.swift",
+    "sha256": "6e43ebbd121fcaeb1eb7c69a013f02e6a4f6851ae15c8ae2c4c4eb9ec4fa377b",
+    "bytes": 3708
+  },
+  {
+    "file": "projects/learner/Sources/LearnerApp/UI/AgentView.swift",
+    "sha256": "9625b87b0a74cc17a6437dc2c1020040662984b0239224f262e3c947d383501c",
+    "bytes": 16349
+  },
+  {
+    "file": "projects/learner/Sources/LearnerApp/UI/Components.swift",
+    "sha256": "c9acce0c299547196d579564231230bde72c180a7653e48c12827cd6b13a0142",
+    "bytes": 2931
+  },
+  {
+    "file": "projects/learner/Sources/LearnerApp/UI/DatasetsView.swift",
+    "sha256": "954fa4d4ec73422a1f7dc5ebae9bfd7f7711af5c9cc559b29da3ff2c3aa4a417",
+    "bytes": 7238
+  },
+  {
+    "file": "projects/learner/Sources/LearnerApp/UI/DeveloperView.swift",
+    "sha256": "877a283c55b49cc80efc886d08a6f9880e31d101139feb5a56b328f14e75a685",
+    "bytes": 5120
+  },
+  {
+    "file": "projects/learner/Sources/LearnerApp/UI/GameHomeView.swift",
+    "sha256": "3d82577de9e28b9cc53177d061d8b0158f170a7acbe8c22502f538dd6b31922c",
+    "bytes": 19825
+  },
+  {
+    "file": "projects/learner/Sources/LearnerApp/UI/InteractivePreviewSurface.swift",
+    "sha256": "4f41802ed317847e788d960c388b8be6ada50ed76de588ea42c6687e0e118384",
+    "bytes": 7228
+  },
+  {
+    "file": "projects/learner/Sources/LearnerApp/UI/RecordView.swift",
+    "sha256": "bdbcc733ee947d5373adae47bd0441ce0c3ee0f490a8c277354d2f5632512ee1",
+    "bytes": 20912
+  },
+  {
+    "file": "projects/learner/Sources/LearnerApp/UI/RootView.swift",
+    "sha256": "9adc48485823ac2bacca11a50a09b73de0734d50896e752cc91dcf9269977c4d",
+    "bytes": 3026
+  },
+  {
+    "file": "projects/learner/Sources/LearnerApp/UI/SessionsView.swift",
+    "sha256": "b9e4ae8ce0fcfb05aea257ab7e5e7620f3a83df5b7f8ac64c6cea0a48a44d2f4",
+    "bytes": 14782
+  },
+  {
+    "file": "projects/learner/Sources/LearnerApp/UI/SettingsView.swift",
+    "sha256": "322161523bf1aad1479a83c08063aa30093aac184ee3ff900e83d42e68eccd45",
+    "bytes": 5009
+  },
+  {
+    "file": "projects/learner/Sources/LearnerApp/UI/SourcePickerView.swift",
+    "sha256": "87f3c87726c96a989f25876543327db914da12dfc2db232088dd498db2b2e5c7",
+    "bytes": 11133
+  },
+  {
+    "file": "projects/learner/Sources/LearnerApp/UI/VisionCanvas.swift",
+    "sha256": "6f70dfd29270645d4c36875bdee015ef1464acc5f70d1731452a52519ecba587",
+    "bytes": 6398
+  },
+  {
+    "file": "projects/learner/Sources/LearnerApp/UI/VisionEditorSheet.swift",
+    "sha256": "6cdb16fdcbdbea580758f9767a419c4bb6b2421fd9a2cc7bf44201702f4d0053",
+    "bytes": 9627
+  },
+  {
+    "file": "projects/learner/Sources/LearnerCore/Models.swift",
+    "sha256": "f143d3a0319c9d22bd4e0a1e6e71f209cb37852fabd8464a935a851bb326f277",
+    "bytes": 16987
+  },
+  {
+    "file": "projects/learner/Sources/LearnerCore/SampleIndex.swift",
+    "sha256": "bb3c64b58c18bd41575ad5c5120aa2c401a797f4db9f28e3bda5d3708d53dfb0",
+    "bytes": 3349
+  },
+  {
+    "file": "projects/learner/Tests/Fixtures/LearnerQAGame/Info.plist",
+    "sha256": "620b38dee775128fd94c3b68d9285f14c5d9a588b6a58fc3ecf815cf767c8960",
+    "bytes": 786
+  },
+  {
+    "file": "projects/learner/Tests/Fixtures/LearnerQAGame/main.swift",
+    "sha256": "522d0e43ec8573391c799d700d93d73694bd299f1c9f021522684f5654c2ba08",
+    "bytes": 7230
+  },
+  {
+    "file": "projects/learner/Tests/LearnerAppTests/SessionRecorderTests.swift",
+    "sha256": "083d7ebf052b99cb5f949bc75d6bad5cdb573313b29f68609760d69ab89c4276",
+    "bytes": 4172
+  },
+  {
+    "file": "projects/learner/Tests/LearnerCoreTests/LearnerCoreTests.swift",
+    "sha256": "8911c64e67b8eaf57e14b2e4bfc126c5b80ed131b47f4262f1374e71844229a9",
+    "bytes": 2668
+  },
+  {
+    "file": "projects/learner/Tests/python/test_analysis.py",
+    "sha256": "f1e8823818b63224550a0162bb3a757e828e9285ff90891fefcda74f43ecfd7e",
+    "bytes": 2788
+  },
+  {
+    "file": "projects/learner/Tests/python/test_dataset.py",
+    "sha256": "ed3ea9172d33744c8d3e62e88176bf5969fb02392fbcab2c636d0bae86c07c78",
+    "bytes": 3952
+  },
+  {
+    "file": "projects/learner/Tests/python/test_training.py",
+    "sha256": "0b0dcad9a98a81b8528c9dd5affb45ffb95bd596e12623524c27d3e5f9f1f301",
+    "bytes": 2919
+  },
+  {
+    "file": "projects/learner/docs/DATASET_FORMAT.md",
+    "sha256": "545bab426c534f72a888d2618afdfbd7e8186ae6946f313d6cf88774914fc967",
+    "bytes": 1788
+  },
+  {
+    "file": "projects/learner/python/learner_dataset/__init__.py",
+    "sha256": "66a63d87f016cdd8ef20a12c3822f2b46e49c334ea8b29dd27c18b737376c6ea",
+    "bytes": 233
+  },
+  {
+    "file": "projects/learner/python/learner_dataset/analysis.py",
+    "sha256": "246f1d109934123b7f93d7252f088ae8ca337e2c9ded8394565d56e77cf326be",
+    "bytes": 12392
+  },
+  {
+    "file": "projects/learner/python/learner_dataset/dataset.py",
+    "sha256": "73501ebb2e4f9b7f5dbdd621068b312c289ba61d440b9329f01332602014c3b6",
+    "bytes": 11059
+  },
+  {
+    "file": "projects/learner/python/learner_dataset/training.py",
+    "sha256": "48cde8994afb392c7c1199b6638644fa375451bda0d9b4d65922a10e9aa91b09",
+    "bytes": 25357
+  },
+  {
+    "file": "projects/learner/python/pyproject.toml",
+    "sha256": "4a75d3275433a99ed2d602af0fce1db0adbfb7b36e2fb211731bd5449a6c02c7",
+    "bytes": 477
+  },
+  {
+    "file": "projects/learner/scripts/build_app.sh",
+    "sha256": "f1ad71486f8cf8901bf84360dca8c5c7b4f014465379a2fc589d61bb3cd7d1a1",
+    "bytes": 2178
+  },
+  {
+    "file": "projects/minemind/LICENSE",
+    "sha256": "0320c010e9455f6e46eecb0bae6a1ce37b93de8407c00d3a79d0272b10aaebb6",
+    "bytes": 10766
+  },
+  {
+    "file": "projects/minemind/README.md",
+    "sha256": "79e8cc691070ededa4f61427358fadfefb5041080b5dfd92c250036d66abe346",
+    "bytes": 801
+  },
+  {
+    "file": "projects/minemind/THIRD_PARTY_NOTICES.md",
+    "sha256": "a5e0b6fbadf2c41a22f6c6ee2c65880ac5911a27ec6b62fe1289b42a227e5160",
+    "bytes": 1081
+  },
+  {
+    "file": "projects/minemind/agent-runtime/src/minemind_runtime/__init__.py",
+    "sha256": "c70759290bcc237fd9498399d79451198c3b1de31feea2c67ed29000d6b143bf",
+    "bytes": 217
+  },
+  {
+    "file": "projects/minemind/agent-runtime/src/minemind_runtime/__main__.py",
+    "sha256": "5740539845b7a6051ab8eaccb8202d46a19811a4979ef4944429934e102fe345",
+    "bytes": 978
+  },
+  {
+    "file": "projects/minemind/agent-runtime/src/minemind_runtime/api.py",
+    "sha256": "db47ff8a9ecd6c9613f92f7d5e597767bb03c1fbbf51124c465b862de97ef740",
+    "bytes": 19559
+  },
+  {
+    "file": "projects/minemind/agent-runtime/src/minemind_runtime/app.py",
+    "sha256": "17ab05bd0f2fc487ecfa773efeaad2a7aac7c746db3e0146df1696c1a8636f30",
+    "bytes": 6600
+  },
+  {
+    "file": "projects/minemind/agent-runtime/src/minemind_runtime/bridge.py",
+    "sha256": "fbf401b5b500a011278a5603f1b6269316bf592a518074a48d48c8865fe47c9f",
+    "bytes": 13352
+  },
+  {
+    "file": "projects/minemind/agent-runtime/src/minemind_runtime/cognition.py",
+    "sha256": "239c4ad3fdf9930188bee63e6aaad9b6464b0fd947e4e291bf9908b8876571ee",
+    "bytes": 17663
+  },
+  {
+    "file": "projects/minemind/agent-runtime/src/minemind_runtime/config.py",
+    "sha256": "d0f2b98957d0e915cb9d42fecf60841498da7a064611ca979ede62fefefae37a",
+    "bytes": 6872
+  },
+  {
+    "file": "projects/minemind/agent-runtime/src/minemind_runtime/fast_path.py",
+    "sha256": "8b54f0f522ee96043d11911333228658eaea193950fc3c194da8c883338450f6",
+    "bytes": 4421
+  },
+  {
+    "file": "projects/minemind/agent-runtime/src/minemind_runtime/http_bridge.py",
+    "sha256": "87031b141f44c0225b7a4356a6300dd836db7e118158b726062f66a6d384e97c",
+    "bytes": 26187
+  },
+  {
+    "file": "projects/minemind/agent-runtime/src/minemind_runtime/hybrid_bridge.py",
+    "sha256": "d7a76930b5ab1228d1d46fb955cf2a2ca260a7dfdcec3b625a73a8976eaca9ec",
+    "bytes": 13846
+  },
+  {
+    "file": "projects/minemind/agent-runtime/src/minemind_runtime/integrations.py",
+    "sha256": "1965d6440a2377df83dca4af221e0613f2f9bbdf3474f79874f60d56dd852e45",
+    "bytes": 15481
+  },
+  {
+    "file": "projects/minemind/agent-runtime/src/minemind_runtime/loop.py",
+    "sha256": "4cb59bee3509e0c5874fadac026fb2431ba6252a498cc55703eb0d23c7ad7149",
+    "bytes": 125394
+  },
+  {
+    "file": "projects/minemind/agent-runtime/src/minemind_runtime/monitoring.py",
+    "sha256": "3150d0a452b6fe846656ded3bedc536e40f2c9ef01f79a81b3e46e23f7d148aa",
+    "bytes": 13563
+  },
+  {
+    "file": "projects/minemind/agent-runtime/src/minemind_runtime/store.py",
+    "sha256": "618a2acb08383c2145d296567e6c0fe0f48cd7924f05f3415b2a7228397bdbc7",
+    "bytes": 13626
+  },
+  {
+    "file": "projects/minemind/agent-runtime/tests/test_api.py",
+    "sha256": "2b3dba361b9431e6b0141b770998cf3484578cc526e96bf233c5cf4004bf6483",
+    "bytes": 11056
+  },
+  {
+    "file": "projects/minemind/agent-runtime/tests/test_fast_path.py",
+    "sha256": "a902b1ae19430eb50887b79e7a1bc6b19f83a52a0c3944cc10823489575953ec",
+    "bytes": 1361
+  },
+  {
+    "file": "projects/minemind/agent-runtime/tests/test_http_bridge.py",
+    "sha256": "122998d88b4dbaa65348e1f54d564d6625c010a388a66cec129f50b3879247ec",
+    "bytes": 9026
+  },
+  {
+    "file": "projects/minemind/agent-runtime/tests/test_hybrid_bridge.py",
+    "sha256": "4601c947f458f1e9df449adbcddc01e32455be344dfe6e7a0ffbb9072d6baf72",
+    "bytes": 6258
+  },
+  {
+    "file": "projects/minemind/agent-runtime/tests/test_learning_transitions.py",
+    "sha256": "240a5ab1f2019a36bf113921b495b13fbb036d6fead25bb563a78a1a20e432f1",
+    "bytes": 7954
+  },
+  {
+    "file": "projects/minemind/agent-runtime/tests/test_monitoring.py",
+    "sha256": "6ebcc50682a6f9e667d58f423dcba8cdcdcf12839b111893472f9ad87c61de88",
+    "bytes": 5233
+  },
+  {
+    "file": "projects/minemind/agent-runtime/tests/test_runtime.py",
+    "sha256": "2843d1fd72d187cadb049aaf7c7ebf4daf740a8f24d99569d51a30265866a929",
+    "bytes": 36279
+  },
+  {
+    "file": "projects/minemind/config/minemind.toml",
+    "sha256": "e5348db8eb9885539624f15962416f7ca1220a0760cccbb17d8a3831a706cd34",
+    "bytes": 1833
+  },
+  {
+    "file": "projects/minemind/evaluation/src/minemind_evaluation/__init__.py",
+    "sha256": "2c1799d717f44bfb814d5c24147604d178b45bc3ddc4134a45099567b52c0f28",
+    "bytes": 901
+  },
+  {
+    "file": "projects/minemind/evaluation/src/minemind_evaluation/__main__.py",
+    "sha256": "0f7d54f3fbb1f79a85eb8110f11793db99da6f3c61ee979de5abe9a1b5f3fdb3",
+    "bytes": 49
+  },
+  {
+    "file": "projects/minemind/evaluation/src/minemind_evaluation/artifacts.py",
+    "sha256": "92194e7f1fd9f5b8d25a58a8d152161bd2c0bc024d2a0a9d8b2e75f1c4a8fc48",
+    "bytes": 3001
+  },
+  {
+    "file": "projects/minemind/evaluation/src/minemind_evaluation/cli.py",
+    "sha256": "aef1d21414112219f6ffd105a9cd9829c2d54a62d41818a435cfe44a6889c4a3",
+    "bytes": 13980
+  },
+  {
+    "file": "projects/minemind/evaluation/src/minemind_evaluation/fabric.py",
+    "sha256": "475fe36899ee67d1a0efaf5802f3b549232918af261779e8ab6c77c32ce0ee8c",
+    "bytes": 8147
+  },
+  {
+    "file": "projects/minemind/evaluation/src/minemind_evaluation/models.py",
+    "sha256": "18b0f35d7d58821d0b7ae8e96e9ff88298d30a91deeae8af6f5a1688890b557f",
+    "bytes": 2588
+  },
+  {
+    "file": "projects/minemind/evaluation/src/minemind_evaluation/runner.py",
+    "sha256": "0d1db7266bfe359648b30b15b7a7157f2bb55ca4ccee4a8221ec40daae331982",
+    "bytes": 17826
+  },
+  {
+    "file": "projects/minemind/evaluation/src/minemind_evaluation/smoke.py",
+    "sha256": "19a7e5849e47b3fbbda99a3b9261065e18a926a9e1e638fcfe44f92cd0d7a563",
+    "bytes": 1908
+  },
+  {
+    "file": "projects/minemind/evaluation/src/minemind_evaluation/suites.py",
+    "sha256": "ccad7f94ba3ab53ca70aafee4fba68e30999061ce65dd81b7bea857fe1527b9b",
+    "bytes": 4720
+  },
+  {
+    "file": "projects/minemind/evaluation/src/minemind_evaluation/verifiers.py",
+    "sha256": "ebc5ed70b85f46827adb3d87d3faf665a525bcea4fcee3bf1a49cd5b02ae0a37",
+    "bytes": 6176
+  },
+  {
+    "file": "projects/minemind/evaluation/tests/test_evaluation.py",
+    "sha256": "986109abf7aff5d12a285bfe79de73c98df0dd4c5ec4f4828da83d2afd260c14",
+    "bytes": 13103
+  },
+  {
+    "file": "projects/minemind/evaluation/tests/test_process_end_to_end.py",
+    "sha256": "ec65285998000cf1c619aec5d68079d35350f3b07c9becffb7cb864809c2a19f",
+    "bytes": 5903
+  },
+  {
+    "file": "projects/minemind/learning-system/src/minemind_learning_system/__init__.py",
+    "sha256": "3a0de01c439ce0aaad93f0813d816e106cf172882093e88a2cb2be8ca6e519b4",
+    "bytes": 911
+  },
+  {
+    "file": "projects/minemind/learning-system/src/minemind_learning_system/bandit.py",
+    "sha256": "69af1f31a1c637d8449dc223ad0369bf5b264b247813d197bcf6919e82315c31",
+    "bytes": 5686
+  },
+  {
+    "file": "projects/minemind/learning-system/src/minemind_learning_system/checkpoints.py",
+    "sha256": "c6899a75b3e479e6239586de49252b1553f38d7316982b4385c24dd8094750df",
+    "bytes": 11042
+  },
+  {
+    "file": "projects/minemind/learning-system/src/minemind_learning_system/coordinator.py",
+    "sha256": "a6e4168cb76b036be441f8ea54ef181c688213134bb627b94777ce8fc41712ab",
+    "bytes": 1307
+  },
+  {
+    "file": "projects/minemind/learning-system/src/minemind_learning_system/ranking.py",
+    "sha256": "feb4d89dd62bbf28d67f824d41dbdda753964b6fedc3e840cdab135042e31b90",
+    "bytes": 3455
+  },
+  {
+    "file": "projects/minemind/learning-system/src/minemind_learning_system/replay.py",
+    "sha256": "476d6aef62efe13ba80a0c1ac0f8918847e983c2bc4ad01bc71cc52e3f7f3246",
+    "bytes": 6072
+  },
+  {
+    "file": "projects/minemind/learning-system/src/minemind_learning_system/rewards.py",
+    "sha256": "8ade5dbf7ebff01af806b77b908836d52ebf06e19a8f420a545602bedf964172",
+    "bytes": 3336
+  },
+  {
+    "file": "projects/minemind/learning-system/src/minemind_learning_system/training.py",
+    "sha256": "c0c1019c5047e6e0ec9323508f5ac22f9ce32e0ae984ed628160e04b24cc8a6d",
+    "bytes": 3153
+  },
+  {
+    "file": "projects/minemind/learning-system/src/minemind_learning_system/transition.py",
+    "sha256": "2a5e6d4bc908b4df050983ad044ceb4c4cd8b01b037443fe6cc99187e0547b08",
+    "bytes": 1762
+  },
+  {
+    "file": "projects/minemind/learning-system/tests/test_learning.py",
+    "sha256": "c11b8c3a824e7bf3693c4adeb2496eb7ae8a30c47de519dc17131667173ccdf5",
+    "bytes": 5016
+  },
+  {
+    "file": "projects/minemind/learning-system/tests/test_shared_database.py",
+    "sha256": "1b383dfeb792959f706698cf81435892f19afb536334a09604344d7ed97e7f94",
+    "bytes": 2713
+  },
+  {
+    "file": "projects/minemind/memory-system/src/minemind_memory_system/__init__.py",
+    "sha256": "3d31858f63127f3b7d448c6b8d7381c16c07186541754217bc6134b3598768f6",
+    "bytes": 356
+  },
+  {
+    "file": "projects/minemind/memory-system/src/minemind_memory_system/models.py",
+    "sha256": "5ac38d8554041f6bfdd66e3ad2753985eaaa5db2a1d54ffe04a9cc84177a4929",
+    "bytes": 1941
+  },
+  {
+    "file": "projects/minemind/memory-system/src/minemind_memory_system/store.py",
+    "sha256": "e0c64499759d1a507f898660ca77929cf02f46a569ec655438f65e953dab73fd",
+    "bytes": 22080
+  },
+  {
+    "file": "projects/minemind/memory-system/tests/test_memory.py",
+    "sha256": "7e287a04a9610203104fa461c34d6759f340aefe0d5f428cd97d4465b811ec5c",
+    "bytes": 3073
+  },
+  {
+    "file": "projects/minemind/model-router/src/minemind_model_router/__init__.py",
+    "sha256": "7f6f441b8a87d47941fa1bbc27baafbf3b22a9ef790c70933bfc897b30b66fba",
+    "bytes": 403
+  },
+  {
+    "file": "projects/minemind/model-router/src/minemind_model_router/http_transport.py",
+    "sha256": "c1fa90ecb34460750838d94422216022c678c91787f6c5b45ecdc9f039c70568",
+    "bytes": 4927
+  },
+  {
+    "file": "projects/minemind/model-router/src/minemind_model_router/router.py",
+    "sha256": "9d35360a4ca92bcda1bba857848ee38ebd15fb8ba5ef25464634a07490eed9d4",
+    "bytes": 13222
+  },
+  {
+    "file": "projects/minemind/model-router/tests/test_http_transport.py",
+    "sha256": "792cb9d7f48b43e5b69c941a06fceedf66872db6d09371c4cb542af24ea1eb18",
+    "bytes": 1626
+  },
+  {
+    "file": "projects/minemind/model-router/tests/test_router.py",
+    "sha256": "3789cef391b0399a88a2418fdb2134122800fc26652b157139c27d1960a19d24",
+    "bytes": 1644
+  },
+  {
+    "file": "projects/minemind/orchestrator/src/minemind_orchestrator/__init__.py",
+    "sha256": "4631ae18ec871b373ed734633aef6320f38aef094bc25839e50806f9b85098b4",
+    "bytes": 220
+  },
+  {
+    "file": "projects/minemind/orchestrator/src/minemind_orchestrator/orchestrator.py",
+    "sha256": "aa21ea3fc6cee3f79ee7e2a1b3102ce0efafa901007dc3ffd0b089ec2c78a881",
+    "bytes": 16435
+  },
+  {
+    "file": "projects/minemind/orchestrator/tests/test_orchestrator.py",
+    "sha256": "f1c9c04a6f3b2573de95e3d1946237ed194df2173b59fdcf568ee1cbcb31ccf0",
+    "bytes": 4957
+  },
+  {
+    "file": "projects/minemind/planner/src/minemind_planner/__init__.py",
+    "sha256": "26e17c0a47cd29de38beb076e10440c27ee63ba26edb12f90aa20e175927d487",
+    "bytes": 245
+  },
+  {
+    "file": "projects/minemind/planner/src/minemind_planner/planner.py",
+    "sha256": "b6c940f739df8a6528acff451cac71a4416db6d3a0530d336e81b527b09ee211",
+    "bytes": 19454
+  },
+  {
+    "file": "projects/minemind/planner/tests/test_planner.py",
+    "sha256": "ac0b96b16ae1f73b2cabbf831dbbc49e898740d5754c91a6991afa21af9d9191",
+    "bytes": 6481
+  },
+  {
+    "file": "projects/minemind/protocols/src/minemind_protocol/__init__.py",
+    "sha256": "39c1c95fc178d5f1ce921370e70379806ebfe57bfce6094f433185cf7d7c0277",
+    "bytes": 503
+  },
+  {
+    "file": "projects/minemind/protocols/src/minemind_protocol/models.py",
+    "sha256": "19b2750c00062df810d1cfa2537939d9e692727ab0be4d4490eede52f2aa98e9",
+    "bytes": 13323
+  },
+  {
+    "file": "projects/minemind/protocols/tests/test_protocol.py",
+    "sha256": "c39f3cd68fb019c1ce7b52331fb87f9c44bea60fa9cd42cb3454039f6d7c6a53",
+    "bytes": 3270
+  },
+  {
+    "file": "projects/minemind/requirements.txt",
+    "sha256": "068471a03ba60a1d8680876f98267782046161b2b0858f070c25274da6711ae8",
+    "bytes": 57
+  },
+  {
+    "file": "projects/minemind/skill-engine/src/minemind_skill_engine/__init__.py",
+    "sha256": "126741d9d532edf32c7bf28bcd3759a36ce34d16cb2c385211f1703d0e84b4e5",
+    "bytes": 1133
+  },
+  {
+    "file": "projects/minemind/skill-engine/src/minemind_skill_engine/bytecode.py",
+    "sha256": "492ee0eefcf63a57686b772809830133a9bb4c4b6ed6038ac0a034b5c7898677",
+    "bytes": 4128
+  },
+  {
+    "file": "projects/minemind/skill-engine/src/minemind_skill_engine/dsl.py",
+    "sha256": "06fc6ff4c81be5521a2c4c2243a1fc2accf6ffa28a4baaf239fcab6226987e59",
+    "bytes": 4786
+  },
+  {
+    "file": "projects/minemind/skill-engine/src/minemind_skill_engine/evaluation_queue.py",
+    "sha256": "c8c1b00ff7ff52ed5beae222c01b52379a7ccb35a85e455e5afa0b07e2f1cec7",
+    "bytes": 3464
+  },
+  {
+    "file": "projects/minemind/skill-engine/src/minemind_skill_engine/lifecycle.py",
+    "sha256": "40b99d4da9a264833acca352c1002c98b8e1e0bfba4e1cb49965346471ddddb5",
+    "bytes": 7534
+  },
+  {
+    "file": "projects/minemind/skill-engine/src/minemind_skill_engine/registry.py",
+    "sha256": "37a5e35715a5321e8382c262c929d7bc3b8a4e9f2457a5c819a5538a26746077",
+    "bytes": 18130
+  },
+  {
+    "file": "projects/minemind/skill-engine/src/minemind_skill_engine/runtime.py",
+    "sha256": "b300d96656d0bc8eea8843b3e2ffc95282ff8c28b734f5711ca93c7a0cffd80c",
+    "bytes": 15669
+  },
+  {
+    "file": "projects/minemind/skill-engine/src/minemind_skill_engine/sandbox.py",
+    "sha256": "f72bc4996c790f13368de6130388f1a83a2170ea6009b923ca4d572c6d902499",
+    "bytes": 2849
+  },
+  {
+    "file": "projects/minemind/skill-engine/src/minemind_skill_engine/validation.py",
+    "sha256": "af7518f733279c44cb344210082ca01853c31e551cdc14010ccb38da96a4b73d",
+    "bytes": 4939
+  },
+  {
+    "file": "projects/minemind/skill-engine/tests/test_skill_engine.py",
+    "sha256": "1531eb243b7ad698e4d1852dad6488d27f2ecc151a6723088573391fc27e90d2",
+    "bytes": 9033
+  },
+  {
+    "file": "projects/minemind/test_components.py",
+    "sha256": "f14055c4d9c2c6dc7ef66499c7b9a505f2833c872f24a982a71bb9c8f326c3fe",
+    "bytes": 372
+  },
+  {
+    "file": "projects/minemind/training-lab/src/minemind_training_lab/__init__.py",
+    "sha256": "73db5a28558e9cbc0bb090f57f67a6debe6ad78a1c3aa79d924a40c2da7a1e93",
+    "bytes": 667
+  },
+  {
+    "file": "projects/minemind/training-lab/src/minemind_training_lab/curriculum.py",
+    "sha256": "e14a8c0fc2da9bba2d6b81b5b89d7d26aaf4f801636aa0ec3647cd16b46680c1",
+    "bytes": 5034
+  },
+  {
+    "file": "projects/minemind/training-lab/src/minemind_training_lab/lab.py",
+    "sha256": "0cbb2c057dd92f68f959396784bafaa1a4421a3ed7a21ca442750cf5e5bcf7b1",
+    "bytes": 4734
+  },
+  {
+    "file": "projects/minemind/training-lab/src/minemind_training_lab/models.py",
+    "sha256": "a80cff02faf650df5e835ef559bbd0f35978c3bf2db3fd40656e4abc86d38e91",
+    "bytes": 1638
+  },
+  {
+    "file": "projects/minemind/training-lab/src/minemind_training_lab/runtime_bridge.py",
+    "sha256": "846d301beb28a40409e7bf82ccdb63117a0d649112a727b7cb1dec9ab4ba5409",
+    "bytes": 5734
+  },
+  {
+    "file": "projects/minemind/training-lab/src/minemind_training_lab/worlds.py",
+    "sha256": "813eaa1a49ea24e74c302aa372b94e02be5a08503b8caa13806e688c4ccf0b2c",
+    "bytes": 15929
+  },
+  {
+    "file": "projects/minemind/training-lab/tests/fixtures/deterministic_process.py",
+    "sha256": "ea6d9b6b7f7aaf9253e9b454d71262c4546132d0f50d2d76f5f6513b168f5eea",
+    "bytes": 3138
+  },
+  {
+    "file": "projects/minemind/training-lab/tests/test_runtime_bridge.py",
+    "sha256": "e799604c4522a14e601b7fa43af47855e918ab6166d29340e5447a32e5ab33b7",
+    "bytes": 1657
+  },
+  {
+    "file": "projects/minemind/training-lab/tests/test_training_lab.py",
+    "sha256": "ca35f5d8ff75222a9aebe6895db03262f67ec36be855fa6e6282da006f125a70",
+    "bytes": 2147
+  },
+  {
+    "file": "projects/minemind/world-model/src/minemind_world_model/__init__.py",
+    "sha256": "2d19c3a3ee852a50f9b0fd81a03a0f1fc2978b319baf5bb41adf59e649bd0053",
+    "bytes": 147
+  },
+  {
+    "file": "projects/minemind/world-model/src/minemind_world_model/model.py",
+    "sha256": "001085dedcea4d14d5415c2de1688112f3d2743e50221e4ade4308b762fdbab9",
+    "bytes": 13797
+  },
+  {
+    "file": "projects/minemind/world-model/tests/test_world_model.py",
+    "sha256": "9a3a5d013b18b2ce3a07bfda505126eb550dde9b9cedb3e138ceb5f4af5d0952",
+    "bytes": 1287
+  },
+  {
+    "file": "projects/minimal-platformer/Info.plist",
+    "sha256": "2db779fbe1c12852a1255cef96c8baf88f7c2dc5c688971e524edd3fe649d04d",
+    "bytes": 1063
+  },
+  {
+    "file": "projects/minimal-platformer/MinimalPlatformer.swift",
+    "sha256": "f318ef9cc7e8ec2f081bcbfd609cd422310685f8e40023db90dadfc25abb6052",
+    "bytes": 16148
+  },
+  {
+    "file": "projects/minimal-platformer/README.md",
+    "sha256": "2e8ce616b487bc796508ac9cae2e4d97ad377198383f90d1b41e1989ef03f4bc",
+    "bytes": 251
+  },
+  {
+    "file": "projects/minimal-platformer/make_icon.swift",
+    "sha256": "26b115320d1b2ef7834783c0a0a29778f917e6a5174a552c4b3ba9859db9d75a",
+    "bytes": 1585
+  },
+  {
+    "file": "projects/peakshift/README.md",
+    "sha256": "e4d59fd1b3c07f9f7f6c7c441b961fe8c9f36fb745a53cbacbd4c0c827143cf6",
+    "bytes": 248
+  },
+  {
+    "file": "projects/peakshift/desktop/Peakshift.swift",
+    "sha256": "7eac3194822fddb74d23eaf5cc2c0007e3a5e674c7f836cf122fcd3424e673d6",
+    "bytes": 11882
+  },
+  {
+    "file": "projects/peakshift/desktop/build-app.mjs",
+    "sha256": "46a6ec10c5730d5d7122f17ab2ec6efc8191664398ee5aa038b29e480cd33b20",
+    "bytes": 2805
+  },
+  {
+    "file": "projects/peakshift/index.html",
+    "sha256": "39deb407db76245e943574b189b66964e1efaf17830d3164a3ea2e88eacac6ee",
+    "bytes": 578
+  },
+  {
+    "file": "projects/peakshift/package-lock.json",
+    "sha256": "556abf4c57d1ddc9fae3803ab13e49def4c1e5b3ce08268fa003bb88289ef212",
+    "bytes": 60428
+  },
+  {
+    "file": "projects/peakshift/package.json",
+    "sha256": "b7989a2a0358714c4bba20bf014977b00fddd977f9ccbf219a6ccf5c69736277",
+    "bytes": 729
+  },
+  {
+    "file": "projects/peakshift/src/CoursePreview.tsx",
+    "sha256": "57ea56b9808231c1138e241e9552d15d9d775bc868447e487deb7dad07a9fe91",
+    "bytes": 1935
+  },
+  {
+    "file": "projects/peakshift/src/ParkEditor.tsx",
+    "sha256": "2f7b58b4b411a1017cd82ddfb01377f53a619f9c7769c6ae0d46d2995690ed3d",
+    "bytes": 8332
+  },
+  {
+    "file": "projects/peakshift/src/game/active-rider.ts",
+    "sha256": "51b8b08b41f124d343cb03260de780e7f0eedb4eb7d2b71b7dcdc2acb6530498",
+    "bytes": 18782
+  },
+  {
+    "file": "projects/peakshift/src/game/courses.ts",
+    "sha256": "d7b678a3b9455d6f0f1e5150d527a2f1174eae549c0ee74e07524f8af602faec",
+    "bytes": 10062
+  },
+  {
+    "file": "projects/peakshift/src/game/engine.ts",
+    "sha256": "a759decd66eba0f390d810921887d231b4dfc0fc46e503b505e2a4332c9a462d",
+    "bytes": 20069
+  },
+  {
+    "file": "projects/peakshift/src/game/fall.ts",
+    "sha256": "77f71559e8acfb18bc28683d9bf69da343d709fc51efb69c322189ca0ee98573",
+    "bytes": 9774
+  },
+  {
+    "file": "projects/peakshift/src/game/garment.ts",
+    "sha256": "eb464713a364ee0f2aa71df03950a400b6233b867486de92e594237620c54e0e",
+    "bytes": 1769
+  },
+  {
+    "file": "projects/peakshift/src/game/grip.ts",
+    "sha256": "7766e5799041e20f10827592c9cf170e860690b60739cc83ba1dfa39d5fa5569",
+    "bytes": 1986
+  },
+  {
+    "file": "projects/peakshift/src/game/input.ts",
+    "sha256": "24be26e5d86c9b34a0eee344835639a11d310eeb5f65d3c0145dd99bf6445c64",
+    "bytes": 1093
+  },
+  {
+    "file": "projects/peakshift/src/game/physics.ts",
+    "sha256": "7dd342f8fef3a683c2717eb69621175ff10dfc9c27a440f8378a4b2631409b02",
+    "bytes": 28173
+  },
+  {
+    "file": "projects/peakshift/src/game/rails.ts",
+    "sha256": "4a929a9f1f3788ec5d50586351bf29c7759e85f90480cf9c39cb8fa5af950746",
+    "bytes": 3746
+  },
+  {
+    "file": "projects/peakshift/src/game/records.ts",
+    "sha256": "0b4a574c9bfd6d06fe201a3916bc89ab6918ae49022fc0d1524fb642b9587804",
+    "bytes": 1224
+  },
+  {
+    "file": "projects/peakshift/src/game/rider.ts",
+    "sha256": "d8d198ab45e15aee69e15867ae8e2284c146e186be1bc01334b0ee615adf39e0",
+    "bytes": 16511
+  },
+  {
+    "file": "projects/peakshift/src/game/spray.ts",
+    "sha256": "25add7df5febcc122831ad5e60e707a8ae88792b9fe1bbf44b5f210a0f41f19a",
+    "bytes": 3883
+  },
+  {
+    "file": "projects/peakshift/src/game/surface.ts",
+    "sha256": "5d56b87e86ea8c6d9f591605292519ffc85494fb5e24042e4d27d84af7998a6e",
+    "bytes": 3269
+  },
+  {
+    "file": "projects/peakshift/src/game/systems.ts",
+    "sha256": "f9ca5c096d964f712763387ab8d2454ccc7f3c53ffad72412ce86abd9d76b96a",
+    "bytes": 21804
+  },
+  {
+    "file": "projects/peakshift/src/game/tricks.ts",
+    "sha256": "60a142fa7c696669b04e49e7c7813a07abe44217da2990b7cb098d9f9d0f6969",
+    "bytes": 1293
+  },
+  {
+    "file": "projects/peakshift/src/game/world.ts",
+    "sha256": "0216ad33d035f2f7ad78519eb24718058dc5926da20a6b3669f1d898f2082367",
+    "bytes": 51436
+  },
+  {
+    "file": "projects/peakshift/src/main.tsx",
+    "sha256": "a843885c081bfe705f4640045e7c9a469998856ae03b202b03d5a6d97d630790",
+    "bytes": 7330
+  },
+  {
+    "file": "projects/peakshift/src/style.css",
+    "sha256": "8827b7d6fcb4819e5844e54d4682b567fa5bd6e25ed0bb94d1051ed9132fb188",
+    "bytes": 14211
+  },
+  {
+    "file": "projects/peakshift/tests/active-rider.test.ts",
+    "sha256": "f30b370fcd411ead4ba03695e4baf869ebca8ecbe353c19b405ae2fd2f15fabf",
+    "bytes": 8368
+  },
+  {
+    "file": "projects/peakshift/tests/animation-falls.test.ts",
+    "sha256": "576a72ec80b15fa982920f1efd275d9f23c6ff88b0a4c1252a97b30f2be81e11",
+    "bytes": 2914
+  },
+  {
+    "file": "projects/peakshift/tests/balance.test.ts",
+    "sha256": "895dafafecb865b25ed306a96ddf64fe6857baa62e523e132b62c56ef02ea734",
+    "bytes": 3071
+  },
+  {
+    "file": "projects/peakshift/tests/course-launches.test.ts",
+    "sha256": "9c9f3c99d027aba71cb340054cf4fbad64f928507e47be4e8eb232a8ca62ef75",
+    "bytes": 1159
+  },
+  {
+    "file": "projects/peakshift/tests/course-variety.test.ts",
+    "sha256": "10273e5ebc4f9aa552402df28a6668c1234eb67aaf69e3fdc2c28e5fa66ab671",
+    "bytes": 2687
+  },
+  {
+    "file": "projects/peakshift/tests/free-terrain.test.ts",
+    "sha256": "2f56cd89a032df5dc4e9a186da891529f56116daa98fc2b2c120851cc5f9108f",
+    "bytes": 3867
+  },
+  {
+    "file": "projects/peakshift/tests/full-runs.test.ts",
+    "sha256": "28a2c2773c304bf3f7c1fedbbe4896978c4be035764e3be9e94f83bcf2de9c23",
+    "bytes": 2691
+  },
+  {
+    "file": "projects/peakshift/tests/grabs.test.ts",
+    "sha256": "549a03f498695da6522a3590da87008a15a68563464b1958b1f52ff026f12064",
+    "bytes": 3885
+  },
+  {
+    "file": "projects/peakshift/tests/grip-combos.test.ts",
+    "sha256": "d22fd8ca65e23b14390aac15e99409f0fba05039e8cbae2fcf31fa87519ca4df",
+    "bytes": 5259
+  },
+  {
+    "file": "projects/peakshift/tests/helpers.ts",
+    "sha256": "db13e824b5bf59176f250a51aa8646b11de03daa6316c709268075fc3dbc49aa",
+    "bytes": 1376
+  },
+  {
+    "file": "projects/peakshift/tests/landing-assist.test.ts",
+    "sha256": "9b75023d8f43fa0cd2921afd23b31ab5e54979afc5d56f83d0e23d7edf0d61a9",
+    "bytes": 2329
+  },
+  {
+    "file": "projects/peakshift/tests/landing-brace.test.ts",
+    "sha256": "1bceeb49610e912a946e769cb856a0c75d3e39132501811b5dc5fd443c7a5ad2",
+    "bytes": 4071
+  },
+  {
+    "file": "projects/peakshift/tests/physics.test.ts",
+    "sha256": "ceee643bf15df568fe7b0f5f375634f5d2a6df5ee8a3316d9f930c9606a4bb44",
+    "bytes": 5037
+  },
+  {
+    "file": "projects/peakshift/tests/rails.test.ts",
+    "sha256": "4d81701632bfb23fe060d287e62b60242a0a315f98f30cc72ff8532d92318716",
+    "bytes": 6014
+  },
+  {
+    "file": "projects/peakshift/tests/records.test.ts",
+    "sha256": "eefe4fdfd89185856841c733e6be1c78360c7373a28ec008f125eaf2aecc62c1",
+    "bytes": 2059
+  },
+  {
+    "file": "projects/peakshift/tests/riding-regressions.test.ts",
+    "sha256": "e194553f29d1139e50fcddfb47f2e8b301798b5cb4ddd7e92f1bd8a560b3c290",
+    "bytes": 2792
+  },
+  {
+    "file": "projects/peakshift/tests/side-banks.test.ts",
+    "sha256": "1b2e51cc36ff6e6b6d42bcd691332e0e7a6d43c2a85926ebf5af9cb73566ad43",
+    "bytes": 2387
+  },
+  {
+    "file": "projects/peakshift/tests/speed-stability.test.ts",
+    "sha256": "dedc9e11f3159f3ac01bb7fbdd8c93036c1be7248d420fc5fab9ee93b0bf60d0",
+    "bytes": 1243
+  },
+  {
+    "file": "projects/peakshift/tests/systems.test.ts",
+    "sha256": "d31e894785b86be9fcbf5aaf10e47241a966cd6942a5ecef79fe83ba286578c6",
+    "bytes": 14502
+  },
+  {
+    "file": "projects/peakshift/tests/terrain-contract.test.ts",
+    "sha256": "a157b06336d302cc51e2b4a419c3bbb05c6823dee6be61d18207a3ba0dbd9818",
+    "bytes": 1783
+  },
+  {
+    "file": "projects/peakshift/tests/tumble-recovery.test.ts",
+    "sha256": "2201d33cdceb3d8a07d5cb770f5ead17781f47a10a063506a03dc9c00879df19",
+    "bytes": 4722
+  },
+  {
+    "file": "projects/peakshift/tests/world.test.ts",
+    "sha256": "6f40521a12ed2bba27bea66df7f7a1fc6ea870a8e45479c988c21a7b42d81f86",
+    "bytes": 4206
+  },
+  {
+    "file": "projects/powder-templates/PROJECTS.md",
+    "sha256": "20f360c98bbf486d4026f1859279f2d7679690969725d453046dd8412bb8c5fb",
+    "bytes": 40930
+  },
+  {
+    "file": "projects/powder-templates/README.md",
+    "sha256": "fd33a185c75668ed2ae4bf7c9cad9e6286cec3c2c7550d3ed9777b6744dbf5ba",
+    "bytes": 414
+  },
+  {
+    "file": "projects/powder-templates/Start Templates.command",
+    "sha256": "bd4e1b9a274c86e85987d103b852e6493639c972637dc7bf07550197b5b07eca",
+    "bytes": 106
+  },
+  {
+    "file": "projects/powder-templates/catalog.tsv",
+    "sha256": "1d21369e2276350f4060c28f4ee2e1f93ce0cd058e5de776dcea69878709d3e4",
+    "bytes": 96952
+  },
+  {
+    "file": "projects/powder-templates/curate.py",
+    "sha256": "0027e9ff7b20d2bd4254494914e86002a6720ca486885d1f160c084da2952023",
+    "bytes": 9209
+  },
+  {
+    "file": "projects/powder-templates/install.py",
+    "sha256": "47ec565c9f744a2061d52362c960b810709a1c9df24595a8683c182679d64371",
+    "bytes": 2055
+  },
+  {
+    "file": "projects/powder-templates/launch.py",
+    "sha256": "3d9353d4257fb0874228d5d4c2e4cccf94e71850e8d54e7641b8751ad23fc5e3",
+    "bytes": 778
+  },
+  {
+    "file": "projects/powder-templates/templates.lua",
+    "sha256": "f1fce4f0a8fa8faae14792ff01f8f1f172a7938eee9b199d5dec67b831f83686",
+    "bytes": 11653
+  },
+  {
+    "file": "projects/sceneatlas/ARCHITECTURE.md",
+    "sha256": "5269291a43c9fa93e41d8170b1ee557a94a7753a686bb74d5af521fe8b6e9355",
+    "bytes": 3084
+  },
+  {
+    "file": "projects/sceneatlas/KNOWN_LIMITATIONS.md",
+    "sha256": "d0166fac0c992da778adf67606a4d6dac14babf0a46b1aa9c033664033c6659b",
+    "bytes": 3368
+  },
+  {
+    "file": "projects/sceneatlas/LICENSE",
+    "sha256": "46bbb2647c359df3ce2abc0a0bc4e39235f5c0b3fa02244d7dca7fd76d3e924a",
+    "bytes": 1081
+  },
+  {
+    "file": "projects/sceneatlas/README.md",
+    "sha256": "fc82ccb93f4dd2d260207c56d39358d365633315c32804469c507b5cc43f001d",
+    "bytes": 1084
+  },
+  {
+    "file": "projects/sceneatlas/requirements.in",
+    "sha256": "f87eed62cf68d3225489601e5e52fc0dc87c3556213d3a21046e53529ac8e68b",
+    "bytes": 409
+  },
+  {
+    "file": "projects/sceneatlas/sceneatlas/__init__.py",
+    "sha256": "9e06f58bb75128ebd120acc4d087817115504efdc4255d3957086f17c5a06dcf",
+    "bytes": 101
+  },
+  {
+    "file": "projects/sceneatlas/sceneatlas/datasets.py",
+    "sha256": "47be482e9af0b0b9ca706b5887e5a3c06621605a22aeb546eb3c85b31df2b52d",
+    "bytes": 4755
+  },
+  {
+    "file": "projects/sceneatlas/sceneatlas/fusion.py",
+    "sha256": "1315f2911e143d682365f14f7aab44d2703a5760e54527a236f5fc35dff5b351",
+    "bytes": 7585
+  },
+  {
+    "file": "projects/sceneatlas/sceneatlas/geographic.py",
+    "sha256": "50876a41c348cd73986edb56d446b6d4c8763146d61407d9ff36c05b347b16a3",
+    "bytes": 6083
+  },
+  {
+    "file": "projects/sceneatlas/sceneatlas/geography_data.py",
+    "sha256": "88cd624de0ab64f2e777e5c25ba82395bfee2d91e8429b6bace8362994f7454b",
+    "bytes": 1436
+  },
+  {
+    "file": "projects/sceneatlas/sceneatlas/geometry.py",
+    "sha256": "5ba702f43f174c015c5676f180b9cf425f3937a1a7410876674e595c8efbd419",
+    "bytes": 16698
+  },
+  {
+    "file": "projects/sceneatlas/sceneatlas/model_management.py",
+    "sha256": "f5126747bb70c2a3e6afe710ad1cee53edd01127a6fa71f0142a68d9a9a9851e",
+    "bytes": 18111
+  },
+  {
+    "file": "projects/sceneatlas/sceneatlas/ocr.py",
+    "sha256": "7ea5042b4fcea9756113d949ad81612fb381aec2e699cb50ada03d201786bffd",
+    "bytes": 4137
+  },
+  {
+    "file": "projects/sceneatlas/sceneatlas/pipeline.py",
+    "sha256": "9b08254c92278403af9df805771c9ff26d12c6fb82303d5afb162685b72ef4eb",
+    "bytes": 8586
+  },
+  {
+    "file": "projects/sceneatlas/sceneatlas/place_search.py",
+    "sha256": "0bf121e71a54856a698d64cc6dbdfd71d0ffa558308047ce916d932821e34a46",
+    "bytes": 11144
+  },
+  {
+    "file": "projects/sceneatlas/sceneatlas/presentation.py",
+    "sha256": "4778982a4c7010132cd45e92615e69cc16fd3b2cd33e54e948a3c00381ab28cf",
+    "bytes": 2514
+  },
+  {
+    "file": "projects/sceneatlas/sceneatlas/reference_reconstruction.py",
+    "sha256": "e555fa6741603233e8fc6bae2580ae481e069824bbb61b9c2d72b064db3ff80d",
+    "bytes": 7925
+  },
+  {
+    "file": "projects/sceneatlas/sceneatlas/references.py",
+    "sha256": "1ce3a753f8e70968b57eac8c96462478c884331e193f48413e81d397d02470a2",
+    "bytes": 6030
+  },
+  {
+    "file": "projects/sceneatlas/sceneatlas/retrieval.py",
+    "sha256": "c3e1bd19862e3d55405719e650c128671bb36972b87e04c92a44d9319a28edfb",
+    "bytes": 14388
+  },
+  {
+    "file": "projects/sceneatlas/sceneatlas/runner.py",
+    "sha256": "89a66719afb8db957485f51507335da0ef2c0b791e32afb586f5848d99ebb96d",
+    "bytes": 2653
+  },
+  {
+    "file": "projects/sceneatlas/sceneatlas/support.py",
+    "sha256": "68c27f0d0174536c96e1032fd5c2197e1f770d6c12843adad26312b1a2314762",
+    "bytes": 29037
+  },
+  {
+    "file": "projects/sceneatlas/sceneatlas/ui.py",
+    "sha256": "c2d180c78409e21364d9b5c00ede4e4992fb4e6449f27e363a1d388a7ca13789",
+    "bytes": 33867
+  },
+  {
+    "file": "projects/sceneatlas/sceneatlas/vision.py",
+    "sha256": "a632cd7d810b7576c165f992acb5045ef7adf4d39cde887fcc86d823ab8875c9",
+    "bytes": 25268
+  },
+  {
+    "file": "projects/sceneatlas/sceneatlas/worker.py",
+    "sha256": "2387e568690e7fd5b8dfd29fb57558e3504b22433ad03d4e1517dadbd2c827ad",
+    "bytes": 1444
+  },
+  {
+    "file": "projects/sceneatlas/tests/test_datasets.py",
+    "sha256": "9036fc511d3d23b442eba8e395f6ee63cfe6766afd782714dbc2f78a052c0235",
+    "bytes": 1722
+  },
+  {
+    "file": "projects/sceneatlas/tests/test_fusion.py",
+    "sha256": "239daba6a78c31acf1e60b6765a376ff3c9c1350bde1778dbcdb31d4741ca3e1",
+    "bytes": 1619
+  },
+  {
+    "file": "projects/sceneatlas/tests/test_geographic.py",
+    "sha256": "91214727fe808cda07cb25824e667ead772d9af80a576ec770e625327123a2ee",
+    "bytes": 876
+  },
+  {
+    "file": "projects/sceneatlas/tests/test_model_management.py",
+    "sha256": "8384881c91c5eb3e923e9a84dc55d9a8ecf066b12440fd879514b8ed264f3f1b",
+    "bytes": 7928
+  },
+  {
+    "file": "projects/sceneatlas/tests/test_pipeline_integration.py",
+    "sha256": "7e6f4968746f14018776430adbd7708d1912ae2d88d12757e450f36a864b16fb",
+    "bytes": 5386
+  },
+  {
+    "file": "projects/sceneatlas/tests/test_place_search.py",
+    "sha256": "b373994fb846dc94c9a1d85b720be960cdb94fd1a0acef07488be5c740c0610c",
+    "bytes": 6500
+  },
+  {
+    "file": "projects/sceneatlas/tests/test_presentation.py",
+    "sha256": "183871b394c07be24827449242146ee65f848ddaca2184ed783ec4e931306194",
+    "bytes": 1189
+  },
+  {
+    "file": "projects/sceneatlas/tests/test_references.py",
+    "sha256": "3111eb8c7e5f0b4391354497c676acb61b62ce9f09fc9820a7f801e87daa5620",
+    "bytes": 4600
+  },
+  {
+    "file": "projects/sceneatlas/tests/test_support.py",
+    "sha256": "31f9964bde5c9c3100e7d2f749611dcdc92c49d41ff47383d792801ad6972286",
+    "bytes": 12102
+  },
+  {
+    "file": "projects/sceneatlas/tests/test_vision.py",
+    "sha256": "5e14e3eb3ea0d8f8515a821ea7594d62f5c6b0cefa26cfb4898e82d31d847340",
+    "bytes": 8166
+  },
+  {
+    "file": "projects/splat-studio/LICENSE",
+    "sha256": "46bbb2647c359df3ce2abc0a0bc4e39235f5c0b3fa02244d7dca7fd76d3e924a",
+    "bytes": 1081
+  },
+  {
+    "file": "projects/splat-studio/Package.swift",
+    "sha256": "fdfe789c431ba407cb231f70a2fe3443dd4bed74f2c8b5a4d7ff5196c223c3ff",
+    "bytes": 932
+  },
+  {
+    "file": "projects/splat-studio/README.md",
+    "sha256": "fc1f79a982a5df5d6ed4772ff58c75a9fc3befbb48f22d78690b9e90a163a888",
+    "bytes": 699
+  },
+  {
+    "file": "projects/splat-studio/Sources/SplatStudio/Models.swift",
+    "sha256": "7ddb3c951be9e5fb4ea38770fb3084ae5eb906358e7cff1262457258e1a15984",
+    "bytes": 8831
+  },
+  {
+    "file": "projects/splat-studio/Sources/SplatStudio/Services.swift",
+    "sha256": "cc1813e5d9e5c359950a661f8e16d0b91c8f0ebf15818394ae47dbd96065db33",
+    "bytes": 31756
+  },
+  {
+    "file": "projects/splat-studio/Sources/SplatStudio/SplatStudioApp.swift",
+    "sha256": "54b003d6180dd23b3398c9f253873d16488c3a48debf1bdf60223809d2aa1c7a",
+    "bytes": 17817
+  },
+  {
+    "file": "projects/splat-studio/Sources/SplatStudio/Viewer.swift",
+    "sha256": "acbbeaafe8124f6ca97722d06b8d19b5446cca09313133f15d273492d270a78c",
+    "bytes": 11373
+  },
+  {
+    "file": "projects/splat-studio/Sources/SplatStudio/Views.swift",
+    "sha256": "dd9697d2b03dc0ce150ccebfa8ead52603a967f63c3827b2ae0ea1a6efd94230",
+    "bytes": 45744
+  },
+  {
+    "file": "projects/splat-studio/Tests/SplatStudioTests/SplatStudioTests.swift",
+    "sha256": "9748749c9654091a8b344ca58006f9eefa758e862e44bbac0dfbf607336279e2",
+    "bytes": 2268
+  },
+  {
+    "file": "projects/system-load-lab/Package.swift",
+    "sha256": "884d85053a4506438d66b920033ed219112e9235b1612975c08c4f0982b8019e",
+    "bytes": 659
+  },
+  {
+    "file": "projects/system-load-lab/README.md",
+    "sha256": "37251722538ad9e8ebbdaba740b7c721144bfe63947620c5c0dcc2a5d7c03fbf",
+    "bytes": 249
+  },
+  {
+    "file": "projects/system-load-lab/Sources/LoadSafetyCore/SafetyPolicy.swift",
+    "sha256": "c640fa37acde1227cd4a39acf19e36f2f03891571043ec9d34a76ab8d3ed889e",
+    "bytes": 3220
+  },
+  {
+    "file": "projects/system-load-lab/Sources/SafetyPolicyCheck/main.swift",
+    "sha256": "6dfecdd0dc17c81ce85b4fbb04491dab2236c93be5a93c7c9789201d71336436",
+    "bytes": 2096
+  },
+  {
+    "file": "projects/system-load-lab/Sources/SystemLoadLab/ContentView.swift",
+    "sha256": "22ecf5a713cf8277ddb9d41cf0c829c17b0e052d3515da7981eead71bb836b50",
+    "bytes": 5766
+  },
+  {
+    "file": "projects/system-load-lab/Sources/SystemLoadLab/LoadController.swift",
+    "sha256": "be5733aefcc8ee7429085131d8bfc9534a902faa40c45bf45e43f88555da4798",
+    "bytes": 10171
+  },
+  {
+    "file": "projects/system-load-lab/Sources/SystemLoadLab/SystemLoadLabApp.swift",
+    "sha256": "7381676a0628882cb214b72c9ea6ecde0881035b6b5ce43a9e993d57f7240417",
+    "bytes": 756
+  },
+  {
+    "file": "projects/system-load-lab/build_app.sh",
+    "sha256": "1669f4f63cd7c69721ff8475b3773defac25d9710905493024f276d291583bd0",
+    "bytes": 1466
+  },
+  {
+    "file": "projects/terra-terrain-lab/LICENSE",
+    "sha256": "46bbb2647c359df3ce2abc0a0bc4e39235f5c0b3fa02244d7dca7fd76d3e924a",
+    "bytes": 1081
+  },
+  {
+    "file": "projects/terra-terrain-lab/README.md",
+    "sha256": "a2d5c0ca111dc097e3f80b91396375b4111fb5934bf6ec344a94d2c5bbceb055",
+    "bytes": 787
+  },
+  {
+    "file": "projects/terra-terrain-lab/index.html",
+    "sha256": "7be8939b6269c95f92decdfeefc1c6b18e11bf33fe42afb42e039c3d34c5f48f",
+    "bytes": 13265
+  },
+  {
+    "file": "projects/top-car/README.md",
+    "sha256": "7805e2d4dbce2c2fb41775b4cfd502ec17ee27a89185e851f7c1eb802555815e",
+    "bytes": 311
+  },
+  {
+    "file": "projects/top-car/next.config.ts",
+    "sha256": "3f0c147d8ee58f20b20408db918135b7d854224e44b79099ffe45d5e35b20871",
+    "bytes": 255
+  },
+  {
+    "file": "projects/top-car/package-lock.json",
+    "sha256": "2e7a35375cd8274ce7446d7da58c7eb1d745d9c112ab2db9fec7ca6aaa654eda",
+    "bytes": 35023
+  },
+  {
+    "file": "projects/top-car/package.json",
+    "sha256": "81e7f87f2478d9d1bda2b0be867650e9ab3e44c8709a1bcc74744573ddf304e2",
+    "bytes": 670
+  },
+  {
+    "file": "projects/top-car/scripts/audit-facts.mjs",
+    "sha256": "d2c8aa1aefbee4911206be4dd18115ac632e0c4a0fcad7a635f462074d9be283",
+    "bytes": 2946
+  },
+  {
+    "file": "projects/top-car/scripts/create-og.mjs",
+    "sha256": "048de15d6e49268f95b5595ede2afc5e37907a9128b02072da6db4071189b3d0",
+    "bytes": 2081
+  },
+  {
+    "file": "projects/top-car/scripts/preview-static.mjs",
+    "sha256": "a243f47bbe2ba9db674131a7ac111e259d38c4e66ecc375e9f12c69ae39aa66b",
+    "bytes": 2347
+  },
+  {
+    "file": "projects/top-car/scripts/verify-enquiry.mjs",
+    "sha256": "1e56823ee0c374eb9fc2d01e1ab5bbaead79b4220ab03e30b51ab6d4a60bd414",
+    "bytes": 2340
+  },
+  {
+    "file": "projects/top-car/src/app/globals.css",
+    "sha256": "f286f22d01f75e5e8173f7724130c173e5d966a0f510e21d207c3d8df207de4e",
+    "bytes": 35487
+  },
+  {
+    "file": "projects/top-car/src/app/layout.tsx",
+    "sha256": "1385c5ec26e3b11a856235c95eba1f2802ec5ca2b9d4924e0d5f694c4529b500",
+    "bytes": 1463
+  },
+  {
+    "file": "projects/top-car/src/app/not-found.tsx",
+    "sha256": "d551655662a6643c50ed1425fe13d95d2e673727150a2d017a2c107898359563",
+    "bytes": 251
+  },
+  {
+    "file": "projects/top-car/src/app/page.tsx",
+    "sha256": "0480b1de0796b82f3fbbb8c6d15de40cd2cf12e8b262204a239dbc0e16fc5671",
+    "bytes": 7835
+  },
+  {
+    "file": "projects/top-car/src/app/robots.ts",
+    "sha256": "2e7f3dabe3041370c8c4ccccc1131bb3ad634dfa845b1bea7ba5daa4d2ccacdc",
+    "bytes": 311
+  },
+  {
+    "file": "projects/top-car/src/app/sitemap.ts",
+    "sha256": "64b3be3714cb9a4aff630fa8dab27c7d942868460f2af4401ba95f60e86e974c",
+    "bytes": 251
+  },
+  {
+    "file": "projects/top-car/src/components/EnquiryForm.tsx",
+    "sha256": "b920d95dcdcdd4d2b87376f097f97021e4ca28d26d162a8f39ab2ed17e9bf49e",
+    "bytes": 9843
+  },
+  {
+    "file": "projects/top-car/src/components/Gallery.tsx",
+    "sha256": "e8a5d7d9eff50d7a22141bf002dd9c5a8b213ebaf69de69df7a0ef2f6e93ed44",
+    "bytes": 2643
+  },
+  {
+    "file": "projects/top-car/src/components/Header.tsx",
+    "sha256": "b4afd78b2b29446474e80edb9edfced3123547627dcb38d384d245ba6cdfcd09",
+    "bytes": 2106
+  },
+  {
+    "file": "projects/top-car/src/components/Icons.tsx",
+    "sha256": "920e9b42a7e2a5acf3b379868b9824b8582c7916c2dd4316e0d24e53bc429f5e",
+    "bytes": 1240
+  },
+  {
+    "file": "projects/top-car/src/components/Reveal.tsx",
+    "sha256": "e8a8e9a6ec7198f85b6b8ac8c354ac91e834d8614ded27f9bbcd44fa5bf335ce",
+    "bytes": 6227
+  },
+  {
+    "file": "projects/top-car/src/components/Services.tsx",
+    "sha256": "bfcf9b46c0a693c323b124c9745749bcba4de7a1c117ff1a10d7af04f51c35a4",
+    "bytes": 1663
+  },
+  {
+    "file": "projects/top-car/src/data/business.ts",
+    "sha256": "0f95634b5a109d8de630091cffaca3e4d961a8068a6cc2f56fe5ac2530b6e35c",
+    "bytes": 3999
+  },
+  {
+    "file": "projects/top-car/src/lib/enquiry.ts",
+    "sha256": "67163833a0ed4ccf915bc0ad5d61ac731e12817afe1b2ee2149ae328e7fafc24",
+    "bytes": 2100
+  },
+  {
+    "file": "projects/top-car/src/lib/site.ts",
+    "sha256": "d39510ae1638e14b940c1241b4468383d3d959162a29dada804b9e1977e40fbe",
+    "bytes": 853
+  },
+  {
+    "file": "projects/top-car/tsconfig.json",
+    "sha256": "db4a4b92e756f1f39822da1aed41e9fead5e998d5cae1810edf1650023d4a173",
+    "bytes": 476
+  }
+]
