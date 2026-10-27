@@ -1,6 +1,12 @@
 # Z. Research — source snapshots
 
-Independent software engineering projects by Igro192. The archives below contain curated original source from the projects featured in Z. Research videos. Each archive includes a README with scope and run notes. These are source snapshots, not packaged applications; third-party binaries, community saves, private recordings, model weights, generated builds and credentials are excluded.
+Independent software engineering projects by igro. The archives below contain curated original source from the projects featured in Z. Research videos. Each archive includes a README with scope and run notes. These are source snapshots, not packaged applications; third-party binaries, community saves, private recordings, model weights, generated builds and credentials are excluded.
+
+## Featured release: Terrain Lab
+
+[Try the live editor](https://z-research-engineering.igrothegreat.chatgpt.site/demos/terrain.html) · [Browse source, screenshots and validation](terrain-lab) · [Read the announcement](https://z-research-engineering.igrothegreat.chatgpt.site/announcements/terrain-lab.html)
+
+Terrain Lab is an MIT-licensed browser obstacle editor. It authors boxes, stairs and ramps and downloads real JSON geometry. A fresh live-browser check verified an eight-obstacle export. It does **not** demonstrate trained robot locomotion; TERRA's runtime and research are separate upstream work.
 
 | Project | Download source |
 | --- | --- |
